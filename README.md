@@ -12,5 +12,5 @@ I'm a Software Engineer who is passionate about software development and design,
 - [<img src="https://raw.githubusercontent.com/EnriqueDeLavalle/EnriqueDeLavalle/master/images/twitter.svg" height="40em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/EnriqueDLavalle)
 
 
-[<img src="https://raw.githubusercontent.com/EnriqueDeLavalle/EnriqueDeLavalle/master/images/seng.svg"/>]
-[<img src="https://raw.githubusercontent.com/EnriqueDeLavalle/EnriqueDeLavalle/master/images/coding.png"/>]
+<img src="https://raw.githubusercontent.com/EnriqueDeLavalle/EnriqueDeLavalle/master/images/seng.svg"/>
+<img src="https://raw.githubusercontent.com/EnriqueDeLavalle/EnriqueDeLavalle/master/images/coding.png"/>
