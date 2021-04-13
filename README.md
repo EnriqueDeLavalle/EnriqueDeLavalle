@@ -8,4 +8,6 @@ I'm a Software Engineer who is passionate about software development and design,
 - 🌱 I’m currently learning: BPM and low-code app building with <a href="https://academy.pega.com/"> Pega Platform </a>
 - 💬 Ask me about: **Java**
 - ⚡ Fun and intereting fact: **Colombian living in Poland** 
-
+- 
+[<img src="https://raw.githubusercontent.com/EnriqueDeLavalle/EnriqueDeLavalle/master/linkedin.png" height="40em" align="center" alt="Follow me on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/enrique-de-lavalle-rizo/)
+[<img src="https://raw.githubusercontent.com/EnriqueDeLavalle/EnriqueDeLavalle/master/twitter.svg" height="40em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/EnriqueDLavalle)
