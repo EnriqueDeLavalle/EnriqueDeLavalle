@@ -6,7 +6,7 @@ I'm a Software Engineer who is passionate about software development and design,
 
 - 🏢 I’m currently working at: <a href="https://www.epam.com/"> Epam System.</a>
 - 🔭 I’m currently working on: **Java** as a **Backend Developer**
-- 🌱 I’m currently learning: BPM and low-code app building with <a href="https://academy.pega.com/"> Pega Platform </a>
+- 🌱 I’m currently learning:Cloud with AWS and preparing my self to AWS Developer Associate certification
 - 💬 Ask me about: **Java**
 - ⚡ Fun and interesting facts: **Colombian living in Poland**, Trying to learn Polish language.
 
