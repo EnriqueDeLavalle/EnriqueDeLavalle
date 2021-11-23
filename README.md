@@ -6,6 +6,7 @@ Java developer by nature, but I enjoy learn others programming languages, tools 
 <br> 
 
 - 🏢 I’m currently working at: <a href="https://www.epam.com/"> Epam System.</a>  as a **Software Engineer**
+- 🏢 I’m currently working at: <a href="https://www.epam.com/"> Epam System.</a>  as a **Software Engineer**
 <br> 
 - 🔭 I’m currently working on: **Java** as a **Backend Developer**
 <br> 
