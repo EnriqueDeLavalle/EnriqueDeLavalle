@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/EnriqueDeLavalle/EnriqueDeLavalle/master/images/gh-header-image.png" alt="Enrique De Lavalle - Software Engineer">
 I'm a Software Engineer who is passionate about software development and software design  <br>
-Java developer by nature, but I enjoy learn others programming languages, tools and technologies. <br> 
+Java developer by nature, but I enjoy learn others programming languages, tools and technologies.
+ <br> <br> 
 
 - 🏢 I’m currently working at: <a href="https://www.epam.com/"> Epam System.</a>  as a **Software Engineer**
 - 🔭 I’m currently working on: **Java** as a **Backend Developer**
