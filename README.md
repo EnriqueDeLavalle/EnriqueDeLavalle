@@ -4,13 +4,13 @@
 I'm a Software Engineer who is passionate about software development and software design  <br>
 Java developer by nature, but I enjoy learn others programming languages, tools and technologies.  <br> 
 
-- 🏢 I’m currently working at: <a href="https://www.epam.com/"> Epam System.</a>  as a **Software Engineer** 
+- 🏢 I’m currently working at: <a href="https://www.epam.com/"> Epam System.</a>  as a **Software Engineer**
 <br> 
-- 🔭 I’m currently working on: **Java** as a **Backend Developer** 
+- 🔭 I’m currently working on: **Java** as a **Backend Developer**
 <br> 
 - 🌱 I’m currently learning: Cloud with AWS and preparing my self to the <a href="https://aws.amazon.com/certification/certified-developer-associate/"> AWS Developer Associate certification!</a>
 <br> 
-- 💬 Ask me about: **Java** 
+- 💬 Ask me about: **Java**
 <br> 
 - ⚡ Fun and interesting facts: **Colombian living in Poland**, Trying to learn Polish language. 
 <br> 
