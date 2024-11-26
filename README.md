@@ -13,4 +13,4 @@ Java developer by nature, but I enjoy learn others programming languages, tools 
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:  <a href="https://www.linkedin.com/in/enrique-de-lavalle-rizo/"> LinkedIn.</a> -  <a href="https://twitter.com/EnriqueDLavalle"> Twitter.</a>
 
  <br> <br>
-<img src="https://raw.githubusercontent.com/EnriqueDeLavalle/EnriqueDeLavalle/master/images/seng.svg"/> ----- <img src="https://raw.githubusercontent.com/EnriqueDeLavalle/EnriqueDeLavalle/master/images/coding.png" height="80%"/>
+
